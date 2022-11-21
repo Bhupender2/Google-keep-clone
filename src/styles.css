@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+.Nav-item {
+  @apply flex p-2 my-4 hover:bg-gray-100 border-r-4 hover:border-red-400 border-yellow-400 hover:text-gray-800 cursor-pointer focus:bg-gray-300;
+}
