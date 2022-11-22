@@ -16,7 +16,7 @@ Built in React.js with ❤️
 
 #To run Project ⛳:
 
-Run these 2 commands on terminal :
+Run these 3 commands on terminal :
 
 1. npm install
 
